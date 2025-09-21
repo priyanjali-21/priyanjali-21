@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm currently an undergrad student at IIT Delhi ....<br><br>- 🔭 I’m thriving as a web dev and machine learning enthusiast <br>- 📚 I'm currently learning data anlytics <br>- ⚡ In my free time I read books </p>
+<p align="left">I'm currently an undergrad student at IIT Delhi ....<br><br>- 🔭 I’m thriving as a web dev and machine learning enthusiast <br>- 📚 I'm currently learning data analytics <br>- ⚡ In my free time I read books </p>
 
 ###
 
